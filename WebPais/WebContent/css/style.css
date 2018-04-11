@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {   
+	font: verdana;
+	padding: 1em;
+	background: #fafafa; 
+} 
+
+
